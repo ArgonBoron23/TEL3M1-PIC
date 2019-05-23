@@ -1,0 +1,1 @@
+﻿<xml xmlns="http://www.w3.org/1999/xhtml"><blockly picaxe="20X2" version="1.4.0" pinNames="" customToolbox="false"/><block type="picaxe_control_start" deletable="false" x="38" y="38"><next><block type="picaxe_output_outputon"><field name="PIN">B.0</field><field name="VALUE">1</field></block></next></block></xml>
