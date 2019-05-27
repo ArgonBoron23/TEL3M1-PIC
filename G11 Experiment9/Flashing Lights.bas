@@ -1,5 +1,5 @@
-﻿main:
-    toggle B.0
+main:
+    toggle 0
     wait 2
     goto main
 
