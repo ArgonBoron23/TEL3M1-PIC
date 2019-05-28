@@ -1,4 +1,4 @@
-﻿init:	b2 = 0
+init:	b2 = 0
 
 myloop:	
 	button C.0,1,200,100,b2,1,main	; jump to cont when C.0 = 1				; output off
