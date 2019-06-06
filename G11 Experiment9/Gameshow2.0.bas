@@ -90,5 +90,6 @@ increment:
 	
 
 fail:
-	tune C.0, 4,($40,$42,$40,$28)
+	tune C.0, 6,($40,$42,$40,$28, $28)
+	
 	goto revert
