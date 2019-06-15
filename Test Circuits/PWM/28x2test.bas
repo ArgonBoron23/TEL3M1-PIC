@@ -1,0 +1,3 @@
+main:
+rfout
+goto main
