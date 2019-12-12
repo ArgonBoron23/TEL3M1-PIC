@@ -1,5 +1,5 @@
+b2 = 0
 
-
-main:	rfin C.4, b0,b1,b2,b3,b4,b5,b6,b7
-	debug
-	goto main
+main:	high b2
+inc b2
+goto main

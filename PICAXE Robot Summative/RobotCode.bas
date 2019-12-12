@@ -17,9 +17,9 @@ symbol stopled = A.1
 symbol leftbumpvar = b0
 symbol rightbumpvar = b1
 
-;timing variables
+;timing variable constants
 symbol turntime = 1600
-symbol backouttime = 4000
+symbol backouttime = 1500
 symbol stoptime = 500
 
 ;inputs from the remote
